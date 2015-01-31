@@ -1,3 +1,7 @@
+// Copyright GS38, 2015
+// ftp module must be installed 
+
+
 var fs = require('fs');
 var Client = require('ftp');
 var ftp_parameter;
